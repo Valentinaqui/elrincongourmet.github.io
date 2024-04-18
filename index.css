@@ -1,0 +1,92 @@
+.html-css{
+
+    background: rgb(133, 42, 42);
+    color:  #fff;
+    font-size: 2.0em;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: center;
+}
+li{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: center;
+}  
+
+
+h1 {color :rgb(255, 255, 255);
+    font-size: 2.5em;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+ }
+body{
+    
+        background-image: url("https://img.freepik.com/foto-gratis/superficie-madera-mirando-restaurante-vacio_23-2147701348.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    background-color:rgb(255, 207, 118);
+     font-family:'Courier New', Courier, monospace
+     
+}  
+ p {
+    font-weight:bold;
+    font-size: 1.3em;
+    color:rgb(255, 255, 255);
+    height: 1.3em;
+    text-align: center;
+    display:center;
+    justify-content:center;
+    align-items: center;
+} 
+
+      button{
+        font-weight:bold;
+        font-size: 1.3em;
+        background: #000000;
+        color:rgb(255, 255, 255);
+        height: 1.3em;
+        text-align: center;
+        display:center;
+        justify-content:center;
+        align-items: center;
+      }
+
+h2{
+    background: #000000;
+color: #fff;
+justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: center;
+    
+}    
+form {
+    text-align: center;
+    display:center;
+    justify-content: center;
+    align-items: center;   
+  
+}    
+figure{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}  
+h3{
+    background: rgb(0, 0, 0);
+    color:  #fff;
+    font-size: 2.0em;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
